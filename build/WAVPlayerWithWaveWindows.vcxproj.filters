@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\WORKING_SOURCE_FILE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\bgiout.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\dibutil.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\drawing.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\file.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\main.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\misc.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\mouse.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\palette.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\text.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\winbgi.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\winthread.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\dibapi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\dibutil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\graphics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\winbgi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\winbgim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\WinBGIFilesDIR\winbgitypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\MatthewAlgo\Desktop\ProjectsRecreation\StillTesting\WAVPlayerWithWaveWindows\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9639E39A-A89A-3C1B-9106-D6C14EAE9A49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{AB312F98-B378-3DCD-9B90-5DAC1AECD152}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

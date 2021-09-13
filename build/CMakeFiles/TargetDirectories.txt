@@ -1,0 +1,4 @@
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build/CMakeFiles/WAVPlayerWithWaveWindows.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build/CMakeFiles/INSTALL.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build/CMakeFiles/ZERO_CHECK.dir

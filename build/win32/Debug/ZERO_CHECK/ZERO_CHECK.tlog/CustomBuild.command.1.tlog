@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PROJECTSRECREATION\STILLTESTING\WAVPLAYERWITHWAVEWINDOWS\BUILD\CMAKEFILES\9FB1483FA71B9B86233274E7FC7ACF1F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows -BC:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/StillTesting/WAVPlayerWithWaveWindows/build/WAVPlayerWithWaveWindows.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
